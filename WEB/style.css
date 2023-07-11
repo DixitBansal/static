@@ -1,0 +1,41 @@
+.body{
+    margin: 0px;
+    padding: 0px;
+}
+.nav-margin{
+    margin-right: 120px;
+}
+.nav-col{
+    color: white;
+}
+.cnt-margin{
+    margin-top: 20px;
+}
+.abt-cnt-margin{
+    margin-top: 80px;
+}
+.footer{
+    background-color: #242424de;
+}
+.ft-content{
+    color: white;
+    line-height: 1.5rem;
+}
+.ft-contentt{
+    color: white;
+    line-height: 0.3rem;
+
+}
+.cont{
+    max-width: 30rem;
+    margin: auto;
+}
+.nav-color{
+    background-color: #0e2039;
+}
+.login-panel{
+    background-color: #2a3845;
+    box-shadow: 10px 10px 24px -5px rgba(0,0,0,1);
+-webkit-box-shadow: 10px 10px 24px -5px rgba(0,0,0,1);
+-moz-box-shadow: 10px 10px 24px -5px rgba(0,0,0,1);
+}
